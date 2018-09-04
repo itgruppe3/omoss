@@ -1,0 +1,14 @@
+body{
+  background-color: #D5F5E3  ;
+  color: #000305;
+  font-size: 87.5%;
+  font-family: Arial, 'Lucida Sans Unicode';
+  line-height: 1.5;
+  text-align: center;
+  width: device-width;
+  margin-top: 60px;
+}
+
+div{
+  width: device-width;
+}
