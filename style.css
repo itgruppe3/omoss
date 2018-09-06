@@ -1,14 +1,58 @@
 body{
-  background-color: #D5F5E3  ;
+  background-color: #FFF  ;
   color: #000305;
   font-size: 87.5%;
   font-family: Arial, 'Lucida Sans Unicode';
   line-height: 1.5;
   text-align: center;
-  width: device-width;
-  margin-top: 60px;
+  width: 100%;
+  margin-top: 35px;
+  margin-left: 0px;
 }
 
 div{
-  width: device-width;
+  width: 100%;
+}
+
+.header{
+  background: #FFF;
+}
+
+.eliastekst{
+  background: #ED8F94;
+  padding-top: 10px;
+  padding-bottom: 40px;
+  font-family: garamond;
+  font-size: 16px;
+}
+
+.eliash1{
+  font-family: trebuchet ms;
+  font-size: 50px;
+}
+.elias{
+  color: #FFF;
+  font-weight: 600;
+}
+
+.kaiustekst{
+  background: #599490;
+  padding-top: 10px;
+  padding-bottom: 40px;
+  font-family: garamond;
+  font-size: 16px;
+}
+
+.kaiush1{
+  font-family: trebuchet ms;
+  font-size: 50px;
+}
+
+.kaius{
+    color: #FFF;
+}
+
+.tittelh1 {
+  paddding-bottom: 10px;
+  font-family: trebuchet ms;
 }
