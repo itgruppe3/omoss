@@ -6,7 +6,6 @@ body{
   line-height: 1.5;
   text-align: center;
   width: 100%;
-  margin-top: 35px;
   margin-left: 0px;
 }
 
@@ -15,7 +14,19 @@ div{
 }
 
 .header{
-  background: #FFF;
+  background: rgba(255, 255, 255, 0.8);
+  height: 80px;
+  position: -webkit-sticky;
+  position:sticky;
+  top: 0px;
+
+
+
+}
+
+.tittelh1 {
+  padding-top: 20px;
+  font-family: trebuchet ms;
 }
 
 .eliastekst{
@@ -50,9 +61,4 @@ div{
 
 .kaius{
     color: #FFF;
-}
-
-.tittelh1 {
-  paddding-bottom: 10px;
-  font-family: trebuchet ms;
 }
